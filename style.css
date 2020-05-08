@@ -27,11 +27,12 @@ nav a{
 
 #featured-property figcaption {
   text-align: center;
-  font-size: 15px
+  font-size: 15px;
 }
 
 #featured-property p {
   text-align: center;
+  width: 800px;
 }
 
 #details {
